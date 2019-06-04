@@ -7,10 +7,12 @@ The ultimate result will detect each grains and classify it to its corresponding
 ## Dataset
 We are publishing a Dataset for rice grain classification for further improvement. **Note: This Dataset can be only used for research purposes**. You can have a look at the sample images folder to have a glipse of the dataset. 
 If you want to access the full Dataset please email me at ```mushahidshamim@gmail.com``` mentioning in the following format.
+
 ```Subject: Rice Grain Dataset
 Name of your Institution:
 Affiliation: 
 ```
 ## Usage
 You can use the pretrained model downloading from this ![link](https://drive.google.com/open?id=1Pw7f619X7WqKxGbhvGJdiTpUu2QqJhXe). After downloading the model you can run the following command to prodcude the result.
+
 ```python3 predict.py model.py Test.jpg```
