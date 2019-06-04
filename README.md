@@ -5,7 +5,7 @@ The ultimate result will detect each grains and classify it to its corresponding
 <img src="https://github.com/Mushahid2521/Rice-Grain-Purity-Analysis-Using-Deep-Learning/blob/master/images/Test15.jpg?raw=1" alt="Image" height="300" width="200"/> <img src="https://github.com/Mushahid2521/Rice-Grain-Purity-Analysis-Using-Deep-Learning/blob/master/images/predicted_img.jpg?raw=1" alt="Image" height="300" width="200"/> 
 
 ## Dataset
-We are publishing a Dataset for rice grain classification for further improvement. **Note: This Dataset can be only used for research purposes**. You can have a look at the sample images folder to have a glipse of the dataset. 
+We are publishing a Dataset for rice grain classification for further improvement. **Note: This Dataset can be only used for research purposes**. You can have a look at the ```sample images``` folder to have a glipse of the dataset. 
 If you want to access the full Dataset please email me at ```mushahidshamim@gmail.com``` mentioning in the following informations.
 
 ```
